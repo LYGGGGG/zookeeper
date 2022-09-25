@@ -100,4 +100,4 @@ dataDir = /opt/zookeeper/zkdata
 systemctl stop firewalld
 systemctl disable firewalld
 ```
-
+2022.9.26
